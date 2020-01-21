@@ -1,0 +1,77 @@
+body{
+    background: #233962;
+}
+.mainRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: arial;
+}
+.team{
+     background: linear-gradient(120deg, #233962 50%, #00C9AB 50%);
+}
+.row1 {
+    display: flex;
+    justify-content: center;
+}
+
+.row2 {
+    flex-direction: row;
+    text-align: center;
+}
+
+img {
+    width: 13vw;
+    border-radius: 5px;
+    min-width: 150px;
+    border: 1px solid white;
+}
+
+.card {
+    border: 3px solid white;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 15px;
+    width: 20vw;
+    height: 100%;
+    min-width: 150px;
+    min-height: 200px;
+    max-width: 280px;
+    color: white;
+    background: #233962;
+    box-shadow: 0px 15px 20px black;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: arial;
+}
+.name{
+ font-size: 1.5rem;
+}
+.role{
+    font-size: 1.2rem;
+}
+.about{
+    font-size: 1rem;
+}
+.email{
+    font-size: .7rem;
+
+}
+.header{
+    font-size: 3rem;
+}
+
+
+
+
+
+
+
+
+
