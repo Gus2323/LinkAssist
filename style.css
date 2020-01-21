@@ -1,6 +1,7 @@
-body{
+body {
     background: #233962;
 }
+
 .mainRow {
     display: flex;
     flex-direction: row;
@@ -10,10 +11,9 @@ body{
     margin-left: auto;
     margin-right: auto;
     font-family: arial;
+    background: #00C9AB;
 }
-.team{
-     background: linear-gradient(120deg, #233962 50%, #00C9AB 50%);
-}
+
 .row1 {
     display: flex;
     justify-content: center;
@@ -45,33 +45,30 @@ img {
     background: #233962;
     box-shadow: 0px 15px 20px black;
 }
-h1{
+
+h1 {
     text-align: center;
     color: white;
     font-family: arial;
 }
-.name{
- font-size: 1.5rem;
+
+.name {
+    font-size: 1.5rem;
 }
-.role{
+
+.role {
     font-size: 1.2rem;
 }
-.about{
+
+.about {
     font-size: 1rem;
 }
-.email{
+
+.email {
     font-size: .7rem;
 
 }
-.header{
+
+.header {
     font-size: 3rem;
 }
-
-
-
-
-
-
-
-
-
