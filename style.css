@@ -77,4 +77,8 @@ h1 {
         justify-content: center;
         flex-direction: column;
     }
+    .card{
+        display: flex;
+        flex-direction: row;
+    }
 }
